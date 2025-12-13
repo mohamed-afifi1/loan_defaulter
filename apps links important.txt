@@ -1,0 +1,24 @@
+flask GitHub
+
+https://github.com/abdelrahman0301/defaulter2
+
+
+
+
+streamlit GitHub
+
+https://github.com/abdelrahman0301/defaulter
+
+
+streamlit deployed link 
+
+https://defaulter-depi.streamlit.app/
+
+
+
+
+note : the chatbot need a new api key from gemini everytime you use it, that's because we are using the free tier 
+
+you can get new api key from here
+
+https://aistudio.google.com/api-keys
